@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digikala-voe-project",
+  "private_key_id": "d6c92cdbe042b51e6543e36396e7ada8a3e85521",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCduLzOuTGr32M/\nvg97zkr5uXoJfgnmoLYO0m0+YYcofWoST1h1JLIJNBAHE4Ek6PUgbjRH5Wpp76nj\ns7KFwe/o0ZGErdSFUEW1ccgiRxGfslK7kH/UGkN+xTl/256Q71tTxwiKN0ky6gQx\neSVoj/e7+yhIe4LtlPvOwMDXZHMq0A+2MgNBC0364dFmBRkXXfDeIBYgUHQjFERM\nZUElbJfw2mI9XqXIB3eRN0vZlxHK2ezu8UcpwrLb3vmC9QaMK3s5Ia6zaZaTE4MI\n2VK22vEgFG94Eh0xOQ0p+1JM1inb41iQIbUPcZa5si4kEEHIte3t5t2qeB8AODRY\noTcJ6KjrAgMBAAECggEAB3LM/9pBHUPMdRstsgQZCFgZCk+4efrG/kYzwIlsj530\nn26917Jm8gZSZ3MlWy/hO6nYsDiGYQBffpBi8uwov07+V0y6R5113U7FS9EdZPRP\n8emuD785xsfbok0l3ORg5MD2h0h7HXttvURiXuDFq0v+KAYlNcEebzItKT7mLXRY\n/CjgzGY5snjOio06xBwmBkifZanjLa6ogWP7LYXLmjYWBPlov3skioWHOdtj+wnM\nEV2aABu+zcoyCo57X/GRD5RWx0HoGFppSRve5PhPvP2RJVGT0yadBvVpm/myUnHp\nAIWp7liWbThE5rUu87rR0tGtp3T/6lPhJHiIkCLi+QKBgQDP3KvnURroA2EWk1cw\nF320eTlNJiZCqpAEecMYLrWREisaqEDATwkmaFkKe6y2MCYIIWg/ItI2pvlhKxkO\nLqBfNddmELtWIDYVPNkq2WDsMHdmMjKij8uBdr4cI6qjVJ/7IX12yVkcW2/uCyrA\nq/XVF6B2J8RX0TdhGTAUcqcn7QKBgQDCP3Bb2i7sEkKxclYfz5P2Yd7Jx9nkFgSF\n9dRSB+v0F92pwlNvcuGyNgOUi5r3PJet8zKQnKxA2zwgwloINhf4mWITZqgE34Jj\n/lxMhUlTKJQCVZyNLlYfdn2ZTYn12YtfN1VhGHounjjPm6kRiclQsuojl1OiLu/+\nzySfL37JNwKBgECNlrFq5cFCM2ewcHZWBUsEDsCf5Wf00m8hZW5gKzEXhF1t/VX7\n9aqA44425GdcQqNpxJc++CvS5UXA/bIC1vlanj9rWNKhhEpKMGN3SPtw/dO2KTWF\nFL1rJBVXGkpJILn8J5u5YjxFRViXDTry7JC2GrY3GWnwZpN4IA9pn/HtAoGAKSwP\nIbjuRyVbs4bbkGSMJSX7deOBYKH2FXrUpQp+zb8dQbUpwC6mfgKK4bpxf0P9lmY8\n6n/61shhR0RKlwD4Nb41Fo2kwVuqpI0ufR2nPBQWwyPoSdhvcr3Hw22290BEFUuC\nMlFg3G629fI1dL0yyYMSs7aIiJDQV78KMR99DSMCgYA6YUvHpxkmh0GtJMF3F7oF\njMS53TUpZGbGgHusXYUQ7EWvyswd/5+bF4lDjJ6XsI4f8za/Vkpp8tsBb+y1dNX4\nGdJIUYCcuTTeoa+bO2gKSTty9aCjqScIglMM+nytiCE/k/GriHtKB7NvYLtADJOS\nwtJeOLcb5dMyt2qNxCN5zA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "digivoe@digikala-voe-project.iam.gserviceaccount.com",
+  "client_id": "110531276251817928452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digivoe%40digikala-voe-project.iam.gserviceaccount.com"
+}

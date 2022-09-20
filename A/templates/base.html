@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+h3 {
+    padding-left: 20px;
+    padding-top: 20px
+}
+
+h5 {
+    padding-left: 20px;
+    padding-top: 20px;
+    color: rgb(58, 46, 47);
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(240, 28, 52);
+  color: rgb(255, 238, 238);
+  text-align: center;
+}
+
+</style>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{% block title%} {% endblock %}</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+</head>
+<body>
+
+{% include 'navbar.html' %}
+
+    <div class="jumbotron">
+        {% block content %}  {% endblock %}
+        <hr class="my-4">
+    </div>
+
+
+
+
+<div class="footer">
+    <p>Powered by Digikal Customer lab</p>
+</div>
+
+</body>
+</html>
